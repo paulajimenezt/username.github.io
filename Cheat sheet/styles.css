@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    border-style: dotted;
+
+  }
+  th, td {
+    background-color: rgb(219,112,147);
+    font-family: PT Serif;
+    font-size: 15px;
+  }
+
+  h1{
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: PT Serif;
+    font-size: 30px;
+    color: black;
+  }
+
+body{
+    background-color: rgb(255,192,203);
+}
+  
